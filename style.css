@@ -1,0 +1,14 @@
+#daftar {
+    font-size: 32px;
+    color: red;
+}
+
+.daftar-button {
+    font-size: 32px !important;
+    color: goldenrod !important;
+}
+
+button {
+    font-size: 20px;
+    color: maroon;
+}
